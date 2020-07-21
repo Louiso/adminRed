@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/adminRed/static/css/main.6a480d3c.chunk.css",
+    "main.js": "/adminRed/static/js/main.305412fc.chunk.js",
+    "main.js.map": "/adminRed/static/js/main.305412fc.chunk.js.map",
+    "runtime-main.js": "/adminRed/static/js/runtime-main.0c6459ad.js",
+    "runtime-main.js.map": "/adminRed/static/js/runtime-main.0c6459ad.js.map",
+    "static/js/2.61689bdb.chunk.js": "/adminRed/static/js/2.61689bdb.chunk.js",
+    "static/js/2.61689bdb.chunk.js.map": "/adminRed/static/js/2.61689bdb.chunk.js.map",
+    "index.html": "/adminRed/index.html",
+    "precache-manifest.903bcd1786034e0353a97a368a722df0.js": "/adminRed/precache-manifest.903bcd1786034e0353a97a368a722df0.js",
+    "service-worker.js": "/adminRed/service-worker.js",
+    "static/css/main.6a480d3c.chunk.css.map": "/adminRed/static/css/main.6a480d3c.chunk.css.map",
+    "static/js/2.61689bdb.chunk.js.LICENSE.txt": "/adminRed/static/js/2.61689bdb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c6459ad.js",
+    "static/js/2.61689bdb.chunk.js",
+    "static/css/main.6a480d3c.chunk.css",
+    "static/js/main.305412fc.chunk.js"
+  ]
+}
