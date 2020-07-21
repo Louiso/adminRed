@@ -13,10 +13,10 @@ const Root = () => {
   console.log("Root")
   return (
     <Router>
-      <Redirect path="/" to="/home"/>
       <Switch>
         <Route path="/home" component={Home}/>
         <Route path="/article/:sectionId" component={SectionDetail}/>
+        <Redirect path="/" to="/home"/>
       </Switch>
     </Router>
   )
