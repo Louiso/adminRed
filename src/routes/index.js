@@ -2,7 +2,8 @@ import React from 'react'
 import {
   BrowserRouter as Router,
   Switch,
-  Route
+  Route,
+  Redirect
 } from "react-router-dom";
 
 import Home from '../containers/Home';
@@ -12,6 +13,7 @@ const Root = () => {
   console.log("Root")
   return (
     <Router>
+      <Redirect path="/" to="/home"/>
       <Switch>
         <Route path="/home" component={Home}/>
         <Route path="/article/:sectionId" component={SectionDetail}/>
